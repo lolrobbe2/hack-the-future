@@ -50,5 +50,11 @@ public class HackTheFutureClient : HttpClient
         HttpResponseMessage message =await GetAsync("/api/a/medium/puzzle");
         return await message.Content.ReadFromJsonAsync<BattleOfNovaCentauriDto>();
     }
-  
+    public async Task<ZyphoraTheWaitingWorldDto> GetZhyphora()
+    {
+
+        HttpResponseMessage message = await GetAsync("/api/b/medium/puzzle");
+        return await message.Content.ReadFromJsonAsync<ZyphoraTheWaitingWorldDto>();
+    }
+
 }
