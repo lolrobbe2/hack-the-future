@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Involved.HTF.Template
+/A-1_EASY/obj
+/Involved.HTF.Common/obj
