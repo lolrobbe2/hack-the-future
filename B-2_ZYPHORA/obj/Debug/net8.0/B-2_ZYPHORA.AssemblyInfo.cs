@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("B-2_ZYPHORA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb104ea287028d43e0d7ca74238d7e7d953097c3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2607defd7006ab5142b2e4bb0bce28fc1da2926")]
 [assembly: System.Reflection.AssemblyProductAttribute("B-2_ZYPHORA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("B-2_ZYPHORA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
